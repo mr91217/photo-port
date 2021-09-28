@@ -9,7 +9,7 @@ afterEach(cleanup);
 
 
 
-describe('About component', () => {
+describe('About component renders', () => {
     //renders About test
     // First Test
     it('renders', () => {
