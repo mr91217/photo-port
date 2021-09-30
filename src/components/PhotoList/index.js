@@ -124,7 +124,9 @@ const PhotoList = ({ category }) => {
             key={image.name}
           />
         ))}
+        
       </div>
+      
     </div>
   );
 };
