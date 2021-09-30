@@ -21,7 +21,7 @@ function Nav(props) {
           <span role="img" aria-label="camera"> 📸</span> Oh Snap!
         </a>
       </h2>
-      <nav>
+      <nav> 
         <ul className="flex-row">
           <li className="mx-2">
             <a data-testid="about" href="#about" onClick={() => setContactSelected(false)}>

@@ -42,4 +42,4 @@ describe('Click Event', () => {
 
     expect(mockToggleModal).toHaveBeenCalledTimes(1);
   });
-})  
+})   
